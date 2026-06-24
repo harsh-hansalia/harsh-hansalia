@@ -12,8 +12,8 @@
 ### 🧭 About Me
 
 - 💼 Working as a **Software Engineer**, focused on building softwares for semiconductor inspection systsms and also fast well-engineered web applications
-- 🛠️ Comfortable across the stack — from systems-level languages like C/C++ to modern frontend with React, and backend with Django/Postgres
-- 📊 Increasingly interested in data & ML tooling — Python, Pandas, NumPy, PyTorch, scikit-learn
+- 🛠️ Comfortable across the stack from systems-level languages like C/C++ to modern frontend with React, and backend with Django/Postgres
+- 📊 Increasingly interested in data & ML tooling - Python, Pandas, NumPy, PyTorch, scikit-learn
 - 🌱 Currently sharpening skills in **modern frontend architecture and animation** (React, Vite, GSAP)
 - 🎯 2026 focus: shipping polished, production-grade personal projects and contributing to open source
 - 💬 Always open to discussing system design, frontend performance, or a good debugging story
@@ -28,7 +28,7 @@
 
 **[Developer Portfolio](https://github.com/harsh-hansalia/harsh-portfolio)**
 
-A fast, animated personal portfolio built with React 19, Vite, and GSAP — featuring smooth inertia scrolling and scroll-triggered animations.
+A fast, animated personal portfolio built with React 19, Vite, and GSAP featuring smooth inertia scrolling and scroll-triggered animations.
 
 `React` `Vite` `GSAP` `Lenis`
 
