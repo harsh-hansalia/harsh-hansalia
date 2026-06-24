@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Harsh Hansalia 👋</h1>
 
-<h3 align="center">Software Developer building clean, performant web experiences</h3>
+<h3 align="center">Software Engineer building inspection systems for semiconductors & also clean performant web experiences</h3>
 
 <p align="center">
   <a href="https://harsh-hansalia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-- 💼 Working as a **Software Developer**, focused on building fast, well-engineered web applications
+- 💼 Working as a **Software Engineer**, focused on building softwares for semiconductor inspection systsms and also fast well-engineered web applications
 - 🛠️ Comfortable across the stack — from systems-level languages like C/C++ to modern frontend with React, and backend with Django/Postgres
 - 📊 Increasingly interested in data & ML tooling — Python, Pandas, NumPy, PyTorch, scikit-learn
 - 🌱 Currently sharpening skills in **modern frontend architecture and animation** (React, Vite, GSAP)
@@ -87,10 +87,6 @@ A fast, animated personal portfolio built with React 19, Vite, and GSAP — feat
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=harsh-hansalia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh-hansalia&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 
