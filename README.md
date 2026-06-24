@@ -35,21 +35,9 @@ A fast, animated personal portfolio built with React 19, Vite, and GSAP — feat
 🔗 [Live Demo](https://harsh-hansalia-portfolio.vercel.app/)
 
 </td>
-<td width="50%">
-
-**[Add your next project here]**
-
-Short one-line description of what it does and the problem it solves.
-
-`Tech` `Stack` `Tags`
-
-🔗 [Live Demo](#) · [Repo](#)
-
-</td>
 </tr>
 </table>
 
-> 📌 Tip: pin your best repos at the top of your GitHub profile (Customize your pins → choose up to 6) so this list always matches what visitors see first.
 
 ---
 
@@ -105,7 +93,6 @@ Short one-line description of what it does and the problem it solves.
   <img src="https://github-profile-trophy.vercel.app/?username=harsh-hansalia&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
-> ℹ️ These cards are generated live by third-party services (anuraghazra/github-readme-stats and DenverCoder1/github-readme-streak-stats) — no setup needed beyond this README, but if a card ever looks broken, it's a temporary outage on their hosted endpoint, not your profile.
 
 ---
 
@@ -115,12 +102,6 @@ Short one-line description of what it does and the problem it solves.
   <a href="https://harsh-hansalia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<!--
-  Add your other links here as you create/confirm them, using the same badge style, e.g.:
-  LinkedIn:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  Twitter/X: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-  Email:     https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
--->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh-hansalia&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
